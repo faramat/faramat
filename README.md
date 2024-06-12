@@ -4,7 +4,10 @@ Hi 👋 My name is Adel
 Python Backend Developer
 ------------------------
 
-2015 - 2017 | HTML, CSS, Bootstrap, SASS, FLEX 2019 - 2020 | CISCO (Routing) 2021 - 2023 | Основы Assembler, C, C#, C++, Swift 2024 - хххх | Основы Bash, Linux, Python, SQL
+2015 - 2017 | HTML, CSS, Bootstrap, SASS, FLEX 
+2019 - 2020 | CISCO (Routing) 
+2021 - 2023 | Основы Assembler, C, C#, C++, Swift 
+2024 - хххх | Основы Bash, Linux, Python, SQL
 
 * 🌍  I'm based in Kazan
 * ✉️  You can contact me at [t.me/faramat](mailto:t.me/faramat)
