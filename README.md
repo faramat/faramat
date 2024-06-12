@@ -30,14 +30,25 @@ Python Backend Developer
   </a>
 </p>
 
+### 👨‍💻 Имел дело
+| My | framework | list |
+|------------|-------------------------------------|----|
+|aiogram-3 | pyrogram | telethon|
+|asyncio | MariaDB | MySQL|
+|Sqlite3 | PostgreSql | MongoDB|
+|Django | Jinja | FastApi|
+|openpyxl | json | cdek|
+|wappi | requests | vk-api|
+
 ### 🚀 Roadmap
 | Дата | Изучение |
-|------------|-------------------------------------|
-|2015 - 2017 | HTML, CSS, Bootstrap, SASS, FLEX    |
-|2019 - 2020 | CISCO (Routing)                     |
-|2021 - 2023 | Assembler, C, C#, C++, Swift, Go    |
-|2024 - 2024 | Bash, Linux, Python, SQL, Git       |
-### 📕 Курсы
+|------------|---------------------------------------|
+|2015 - 2017 | HTML, CSS, Bootstrap, SASS, FLEX, yaml|
+|2019 - 2020 | CISCO (Routing)                       |
+|2021 - 2023 | Assembler, C, C#, C++, Swift, Go      |
+|2024 - 2024 | Bash, Linux, Python, SQL, Git         |
+
+### 📕 <a href="https://stepik.org/users/14317382/profile">Курсы</a>
 
 | Дата | Название |
 |------------|----------------------------------------------|
