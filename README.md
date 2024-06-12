@@ -3,7 +3,7 @@ Python Backend Developer
 ### 👩‍💻 Обо мне
 * 🌍 Нахожусь в г. Казань
 * 🧠 Учусь в School 21 по Европейской системе
-* 💡 Хорошо развиваю Hard+Soft skills
+* 💡 Развиваю Hard+Soft skills
 * 🤖 Люблю кодить телеграм-ботов и работать с API
 * ✉️ Напишите мне [t.me/faramat](mailto:t.me/faramat)
 ### 🛠 Стек
