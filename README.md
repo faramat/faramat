@@ -5,7 +5,7 @@ Python Backend Developer
 * 🧠 Учусь в School 21 по Европейской системе
 * 💡 Развиваю Hard+Soft skills
 * 🤖 Люблю кодить телеграм-ботов и работать с API
-* ✉️ Напишите мне [t.me/faramat](mailto:t.me/faramat)
+* ✉️ Напишите мне [@faramat](https://t.me/faramat)
 ### 🛠 Стек
 
 
