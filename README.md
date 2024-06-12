@@ -11,7 +11,7 @@ Python Backend Developer
 
 * 🌍  I'm based in Kazan
 * ✉️  You can contact me at [t.me/faramat](mailto:t.me/faramat)
-* 🧠  I'm learning 21 school
+* 🧠  I study at School 21
 
 ### Skills
 
