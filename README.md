@@ -47,7 +47,7 @@ Python Backend Developer
 |2019 - 2020 | CISCO (Routing)                       |
 |2021 - 2023 | Assembler, C, C#, C++, Swift, Go      |
 |2024 - 2024 | Bash, Linux, Python, SQL, Git         |
-
+|2024 - 2024 | Docker, Kubernetes                    |
 ### 📕 <a href="https://stepik.org/users/14317382/profile">Курсы</a>
 
 | Дата | Название |
