@@ -58,7 +58,7 @@ Python Backend Developer
 |05.07.2024  | Monitoring IT                                |
 |08.07.2024  | Docker для начинающих + практический опыт    |
 |18.07.2024  | ELK                                          |
-|19.07.2024  | Grafana + INFLUX+Telegraf                    |
+|19.07.2024  | Grafana + INFLUX + Telegraf                  |
 |20.07.2024  | Apache Jmeter                                |
 ### 🔥 Статистика
 
