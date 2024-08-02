@@ -60,6 +60,7 @@ Python Backend Developer
 |18.07.2024  | ELK                                          |
 |19.07.2024  | Grafana + INFLUX + Telegraf                  |
 |20.07.2024  | Apache Jmeter                                |
+|02.08.2024  | Kubernetes для пользователей                 |
 ### 🔥 Статистика
 
 
